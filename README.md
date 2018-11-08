@@ -52,7 +52,7 @@ node server.js
     </p>
 </p>
 
-![Image text](https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-10-26%2016.29.15.png)
+![Image text](https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-10-26%2016.29.15.png%7CimageView2/2/w/300)
 
       
 
