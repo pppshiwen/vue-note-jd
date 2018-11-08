@@ -93,12 +93,6 @@ node server.js
         <em>购物车</em>
     </p>
 </p>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.48.png" alt="Sample"  width="250">
-    <p align="center">
-        <em>商城</em>
-    </p>
-</p>
 
       
 
