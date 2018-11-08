@@ -45,6 +45,13 @@ node server.js
 
 ##截图
 个人中心
+<p align="center">
+    <img src=https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-10-26%2016.29.15.png" alt="Sample"  width="250" height="140">
+    <p align="center">
+        <em>图片示例2</em>
+    </p>
+</p>
+
 ![Image text](https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-10-26%2016.29.15.png)
 
       
