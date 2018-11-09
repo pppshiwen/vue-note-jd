@@ -45,50 +45,50 @@ node server.js
 
 ##截图
 <p align="center">
-    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-11-08%2020.03.05.png" alt="Sample"  width="250">
+    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/vue-note-jd-img/%E6%88%AA%E5%9B%BE%202018-11-08%2020.03.05.png" alt="Sample"  width="250">
     <p align="center">
         <em>注册</em>
     </p>
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.59.png" alt="Sample"  width="250">
+    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/vue-note-jd-img/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.59.png" alt="Sample"  width="250">
     <p align="center">
         <em>登录</em>
     </p>
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-10-26%2016.29.15.png" alt="Sample"  width="250">
+    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/vue-note-jd-img/%E6%88%AA%E5%9B%BE%202018-10-26%2016.29.15.png" alt="Sample"  width="250">
     <p align="center">
         <em>个人中心</em>
     </p>
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.02.png" alt="Sample"  width="250">
+    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/vue-note-jd-img/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.02.png" alt="Sample"  width="250">
     <p align="center">
         <em>笔记页面</em>
     </p>
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.23.png" alt="Sample"  width="250">
+    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/vue-note-jd-img/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.23.png" alt="Sample"  width="250">
     <p align="center">
         <em>笔记详情</em>
     </p>
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.35.png" alt="Sample"  width="250">
+    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/vue-note-jd-img/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.35.png" alt="Sample"  width="250">
     <p align="center">
         <em>发布笔记</em>
     </p>
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.48.png" alt="Sample"  width="250">
+    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/vue-note-jd-img/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.48.png" alt="Sample"  width="250">
     <p align="center">
         <em>商城</em>
     </p>
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.54.png" alt="Sample"  width="250">
+    <img src="https://raw.githubusercontent.com/pppshiwen/img/master/vue-note-jd-img/%E6%88%AA%E5%9B%BE%202018-11-08%2020.02.54.png" alt="Sample"  width="250">
     <p align="center">
         <em>购物车</em>
     </p>
